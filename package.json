@@ -1,0 +1,13 @@
+{
+  "name": "gaaaroo-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Self-hosted GitHub profile SVG generators (stats, languages, snake)",
+  "scripts": {
+    "generate": "node src/generate.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
