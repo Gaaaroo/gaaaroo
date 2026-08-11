@@ -53,19 +53,6 @@ Full-stack developer in training with strong foundations in **Java**, **TypeScri
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="28" alt="csharp" />
 </p>
 
-### Experience
-
-**Chuỗi Xanh Việt** — Full-Stack Developer · 04/2026 – 05/2026  
-Multi-platform agricultural marketplace (web, mobile, API) — live at [chuoixanhviet.site](https://chuoixanhviet.site). Node.js / Express / TypeScript / Prisma / PostgreSQL, Next.js, Expo, Socket.IO.
-
-**BDSS — Blood Donation Support System** — Full-Stack Developer · 05/2025 – 07/2025  
-Spring Boot + React + MySQL (Docker). JWT / OAuth2, Google Login & Maps, Firebase, ERD / 3-layer architecture.
-
-### Education & awards
-
-- **FPT University** — Software Engineering · GPA 3.6 / 4.0 · Jan 2024 – Present  
-- Spring 2025 — Top 100 · Merit Excellent Student of Trimester
-
 ### Contact
 
 - Email: [kdshuynh48964@gmail.com](mailto:kdshuynh48964@gmail.com)
