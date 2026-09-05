@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="272" viewBox="0 0 320 272" role="img" aria-label="Top Languages">
+  <title>Top Languages</title>
+  <style>
+    .title { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+    .lang { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .pct { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+  </style>
+  <rect x="0.5" y="0.5" width="319" height="271" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text class="title" x="20" y="22">Top Languages</text>
+  
+    <g transform="translate(0, 28)">
+      <text class="lang" x="20" y="14">C#</text>
+      <rect x="110" y="4" width="170" height="10" rx="5" fill="#21262d"/>
+      <rect x="110" y="4" width="109.7" height="10" rx="5" fill="#178600"/>
+      <text class="pct" x="288" y="14">64.6%</text>
+    </g>
+    <g transform="translate(0, 56)">
+      <text class="lang" x="20" y="14">TypeScript</text>
+      <rect x="110" y="4" width="170" height="10" rx="5" fill="#21262d"/>
+      <rect x="110" y="4" width="21.1" height="10" rx="5" fill="#3178c6"/>
+      <text class="pct" x="288" y="14">12.4%</text>
+    </g>
+    <g transform="translate(0, 84)">
+      <text class="lang" x="20" y="14">JavaScript</text>
+      <rect x="110" y="4" width="170" height="10" rx="5" fill="#21262d"/>
+      <rect x="110" y="4" width="17.4" height="10" rx="5" fill="#f1e05a"/>
+      <text class="pct" x="288" y="14">10.2%</text>
+    </g>
+    <g transform="translate(0, 112)">
+      <text class="lang" x="20" y="14">Java</text>
+      <rect x="110" y="4" width="170" height="10" rx="5" fill="#21262d"/>
+      <rect x="110" y="4" width="11.0" height="10" rx="5" fill="#b07219"/>
+      <text class="pct" x="288" y="14">6.5%</text>
+    </g>
+    <g transform="translate(0, 140)">
+      <text class="lang" x="20" y="14">ShaderLab</text>
+      <rect x="110" y="4" width="170" height="10" rx="5" fill="#21262d"/>
+      <rect x="110" y="4" width="4.5" height="10" rx="5" fill="#58a6ff"/>
+      <text class="pct" x="288" y="14">2.7%</text>
+    </g>
+    <g transform="translate(0, 168)">
+      <text class="lang" x="20" y="14">CSS</text>
+      <rect x="110" y="4" width="170" height="10" rx="5" fill="#21262d"/>
+      <rect x="110" y="4" width="4.1" height="10" rx="5" fill="#563d7c"/>
+      <text class="pct" x="288" y="14">2.4%</text>
+    </g>
+    <g transform="translate(0, 196)">
+      <text class="lang" x="20" y="14">Go</text>
+      <rect x="110" y="4" width="170" height="10" rx="5" fill="#21262d"/>
+      <rect x="110" y="4" width="4.0" height="10" rx="5" fill="#00ADD8"/>
+      <text class="pct" x="288" y="14">0.7%</text>
+    </g>
+    <g transform="translate(0, 224)">
+      <text class="lang" x="20" y="14">Rust</text>
+      <rect x="110" y="4" width="170" height="10" rx="5" fill="#21262d"/>
+      <rect x="110" y="4" width="4.0" height="10" rx="5" fill="#dea584"/>
+      <text class="pct" x="288" y="14">0.6%</text>
+    </g>
+</svg>

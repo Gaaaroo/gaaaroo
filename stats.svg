@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="195" viewBox="0 0 420 195" role="img" aria-label="Nguyễn Đức Huỳnh's GitHub Stats">
+  <title>Nguyễn Đức Huỳnh's GitHub Stats</title>
+  <style>
+    .title { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+    .label { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .value { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .icon { font: 13px 'Segoe UI Symbol', 'Apple Color Emoji', sans-serif; fill: #58a6ff; }
+    .muted { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+  </style>
+  <rect x="0.5" y="0.5" width="419" height="194" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text class="title" x="25" y="32">Nguyễn Đức Huỳnh's GitHub Stats</text>
+  
+    <g transform="translate(25, 52)">
+      <text class="icon" x="0" y="12.5">★</text>
+      <text class="label" x="28" y="12.5">Total Stars:</text>
+      <text class="value" x="190" y="12.5">3</text>
+    </g>
+  
+    <g transform="translate(25, 76)">
+      <text class="icon" x="0" y="12.5">☁</text>
+      <text class="label" x="28" y="12.5">Total Commits:</text>
+      <text class="value" x="190" y="12.5">213</text>
+    </g>
+  
+    <g transform="translate(25, 100)">
+      <text class="icon" x="0" y="12.5">⎇</text>
+      <text class="label" x="28" y="12.5">Total PRs:</text>
+      <text class="value" x="190" y="12.5">67</text>
+    </g>
+  
+    <g transform="translate(25, 124)">
+      <text class="icon" x="0" y="12.5">◉</text>
+      <text class="label" x="28" y="12.5">Total Issues:</text>
+      <text class="value" x="190" y="12.5">0</text>
+    </g>
+  
+    <g transform="translate(25, 148)">
+      <text class="icon" x="0" y="12.5">◆</text>
+      <text class="label" x="28" y="12.5">Public Repos:</text>
+      <text class="value" x="190" y="12.5">11</text>
+    </g>
+  <text class="muted" x="25" y="178">Year contributions: 553 · Followers: 1</text>
+</svg>
